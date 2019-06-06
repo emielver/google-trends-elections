@@ -52,8 +52,6 @@ for (state in states) {
 
 
 # read in and initialise y
-#data.folder <-  "/Users/emielv/Dropbox/MSc\ Econometrics\ 2018-2019/Period\ 2/High-Dimensional\ Econometric\ Methods\ for\ Big\ Data/Paper/"
-#setwd(data.folder)
 #datatable <- read.table("Election results.csv",sep=";", header=TRUE)
 #y <- NULL
 #for (i in 1:17) {
